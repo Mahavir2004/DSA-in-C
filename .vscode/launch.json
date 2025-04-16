@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "g:/C DSA",
-      "program": "g:/C DSA/build/Debug/outDebug",
+      "cwd": "c:/Users/mahavir pandey/DSA-in-C",
+      "program": "c:/Users/mahavir pandey/DSA-in-C/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
